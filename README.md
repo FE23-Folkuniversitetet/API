@@ -1,13 +1,13 @@
 # API Bootcamp
 
 ## Övning 1:
-Hämta alla pokemons genom en fetch mot API'et
+1. Hämta alla pokemons genom en fetch mot API'et
 
 <https://fe23-folkuniversitetet.github.io/API/Data/pokemons.json>
 
-Rendera ut objekten en och en ut i konsollen
+2. Rendera ut objekten en och en ut i konsollen
 
-Rendera ut objektens namn i DOM'en istället så de blir synliga för en användare
+3. Rendera ut objektens namn i DOM'en istället så de blir synliga för en användare
 
 ## Övning 2:
 1. Hämta alla hundar genom en fetch mot API'et
@@ -34,4 +34,4 @@ Rendera ut objektens namn i DOM'en istället så de blir synliga för en använd
    
 <attending: true>
 
-4. Rendera enbart ut de som skall komma OCH som har allergier
+3. Rendera enbart ut de som skall komma OCH som har allergier
