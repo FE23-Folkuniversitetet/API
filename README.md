@@ -30,6 +30,8 @@ Rendera ut objektens namn i DOM'en istället så de blir synliga för en använd
 
 <https://fe23-folkuniversitetet.github.io/API/Data/attendees.json>
 
-2 Rendera enbart ut de som skall komma
+2. Rendera enbart ut de som skall komma
+   
 <attending: true>
-3. Rendera enbart ut de som skall komma OCH som har allergier
+
+4. Rendera enbart ut de som skall komma OCH som har allergier
