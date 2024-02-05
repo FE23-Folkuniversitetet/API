@@ -32,6 +32,6 @@
 
 2. Rendera enbart ut de som skall komma
    
-<attending: true>
+[attending: true]
 
 3. Rendera enbart ut de som skall komma OCH som har allergier
